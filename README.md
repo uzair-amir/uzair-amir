@@ -133,8 +133,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzair02&show_icons=true&locale=en&layout=compact" alt="uzair02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzair02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="uzair02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair02&show_icons=true&locale=en" alt="uzair02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair02&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="uzair02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzair02&" alt="uzair02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzair02&theme=dark&hide_border=false&" alt="uzair02" /></p>
