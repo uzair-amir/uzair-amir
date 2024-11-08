@@ -137,4 +137,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair02&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="uzair02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzair02&theme=dark&hide_border=false&" alt="uzair02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzair02&theme=dark&hide_border=false" alt="uzair02" /></p>
